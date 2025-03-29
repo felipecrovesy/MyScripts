@@ -13,7 +13,7 @@
 4. 👥 [Autores](#authors)
 <br>
 
-## <a name="introduction">🤖 Introdução</a>
+## <a name="introduction">🤖 Lista de Scripts</a>
 
 + [Encontrar Imagens](https://github.com/felipecrovesy/MyScripts/tree/main/EncontrarImagensRepetidas)
 
